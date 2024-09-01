@@ -1,0 +1,19 @@
+.flotaindiv{
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    box-shadow: var(--boxShadow);
+    border-radius: 7px;
+    align-items: center;
+    height: 5rem;
+    padding: 0px 28px 0px 0px;
+}
+
+.flotaindiv>img{
+    transform: scale(.4);
+}
+
+.flotaindiv>span{
+    font-family: sans-serif;
+    font-size: 16px;
+}
