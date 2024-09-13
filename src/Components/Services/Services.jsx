@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useContext } from "react";
 import './Services.css'
 import HeartEmoji from '../../img/heartemoji.png'
 import Glasses from '../../img/glasses.png'

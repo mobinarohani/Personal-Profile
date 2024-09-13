@@ -59,7 +59,6 @@
     align-items: center;
     justify-content: center;
     background: white;
-    box-shadow: var(--smboxShadow);
 }
 
 .w-secCircle>img{

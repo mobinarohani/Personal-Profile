@@ -1,12 +1,13 @@
 import React from 'react'
 import './Navbar.css'
+import Toggle from '../Toggle/Toggle'
 
 function Navbar() {
   return (
     <div className="n-wrapper">
         <div className="n-left">
             <div className="n-name">Mobina</div>
-            <span>toggle</span>
+            <span><Toggle/></span>
         </div>
         <div className="n-right">
             <div className="n-list">
